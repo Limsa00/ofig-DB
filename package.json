@@ -1,0 +1,17 @@
+{
+  "name": "2_ofig-alexisoclock-79368f902a91a735a30570a8e5fd4044607e4d93",
+  "version": "1.0.0",
+  "description": "ofig_DB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
